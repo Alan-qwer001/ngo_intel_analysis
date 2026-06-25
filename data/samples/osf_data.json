@@ -1,0 +1,285 @@
+{
+  "registration_country": "United States",
+  "legal_form": "Private Foundation Network (501(c)(3))",
+  "founded_year": "1979",
+  "founder": "George Soros",
+  "headquarters": "New York, USA",
+  "main_operating_entities": [
+    "Foundation to Promote Open Society",
+    "Open Society Institute"
+  ],
+  "website": "https://www.opensocietyfoundations.org",
+  "historical_total": 24200,
+  "avg_annual_change": "10.2%",
+  "registry_president": {
+    "name": "Binaifer Nowrojee",
+    "title": "President",
+    "start_date": "2023-06"
+  },
+  "registry_board_chair": {
+    "name": "Alex Soros",
+    "title": "Chair",
+    "start_date": "2023-06"
+  },
+  "registry_offices": 20,
+  "financial_records": [
+    {
+      "year": 2022,
+      "total_expenditure": 1318.3,
+      "regional_breakdown": {
+        "Africa": 112.5,
+        "Asia_Pacific": 81,
+        "Europe_Central_Asia": 154.3,
+        "Latin_America_Caribbean": 94.4,
+        "Middle_East_North_Africa": 37.7,
+        "United_States": 302.7,
+        "Global": 535.7
+      }
+    },
+    {
+      "year": 2023,
+      "total_expenditure": 1745.1,
+      "regional_breakdown": {
+        "Africa": 125.2,
+        "Asia_Pacific": 80.9,
+        "Europe_Central_Asia": 219.9,
+        "Latin_America_Caribbean": 104.3,
+        "Middle_East_North_Africa": 48.1,
+        "United_States": 401.3,
+        "Global": 765.4
+      }
+    },
+    {
+      "year": 2024,
+      "total_expenditure": 1190.1,
+      "regional_breakdown": {
+        "Africa": 69.9,
+        "Asia_Pacific": 26,
+        "Europe_Central_Asia": 83.7,
+        "Latin_America_Caribbean": 117.1,
+        "Middle_East_North_Africa": 19.4,
+        "United_States": 242,
+        "Global": 631.9
+      }
+    }
+  ],
+  "grant_records": [
+    {
+      "year": 2024,
+      "recipient": "Access Now",
+      "amount": 6000000,
+      "term": "5 years",
+      "region": "Global",
+      "description": "Digital rights and privacy protection"
+    },
+    {
+      "year": 2024,
+      "recipient": "Adalah Legal Center",
+      "amount": 550000,
+      "term": "19 months",
+      "region": "Middle East & North Africa",
+      "description": "Palestinian NGO emergency response"
+    },
+    {
+      "year": 2024,
+      "recipient": "Adalah Legal Center",
+      "amount": 200000,
+      "term": "1 year",
+      "region": "Middle East & North Africa",
+      "description": "Human rights work support"
+    },
+    {
+      "year": 2024,
+      "recipient": "Advocates for Youth",
+      "amount": 1200000,
+      "term": "3 years",
+      "region": "United States",
+      "description": "Youth advocacy"
+    },
+    {
+      "year": 2024,
+      "recipient": "Africa Centre for Energy Policy",
+      "amount": 500000,
+      "term": "1 year",
+      "region": "Global",
+      "description": "Energy policy"
+    },
+    {
+      "year": 2024,
+      "recipient": "Africa Governance Institute",
+      "amount": 350000,
+      "term": "1 year",
+      "region": "Africa",
+      "description": "Governance support"
+    },
+    {
+      "year": 2024,
+      "recipient": "Aeon America Inc.",
+      "amount": 175000,
+      "term": "25 months",
+      "region": "Global",
+      "description": "Global South voices"
+    }
+  ],
+  "legal_records": [
+    {
+      "jurisdiction": "Russia",
+      "risk_level": "extreme",
+      "status": "banned",
+      "trend": "deteriorating",
+      "description": "Designated undesirable organization, operations are criminal offense"
+    },
+    {
+      "jurisdiction": "Hungary",
+      "risk_level": "extreme",
+      "status": "restricted",
+      "trend": "deteriorating",
+      "description": "Stop Soros legal framework, 25% tax on foreign-funded NGOs"
+    },
+    {
+      "jurisdiction": "China",
+      "risk_level": "high",
+      "status": "restricted",
+      "trend": "stable",
+      "description": "Overseas NGO Management Law prevents direct operations"
+    },
+    {
+      "jurisdiction": "India",
+      "risk_level": "high",
+      "status": "monitored",
+      "trend": "stable",
+      "description": "MHA watchlist, project approvals slowed"
+    },
+    {
+      "jurisdiction": "Kenya",
+      "risk_level": "medium",
+      "status": "monitored",
+      "trend": "deteriorating",
+      "description": "2026 detention of managing director Brian Kagoro"
+    },
+    {
+      "jurisdiction": "United States",
+      "risk_level": "medium",
+      "status": "monitored",
+      "trend": "deteriorating",
+      "description": "FARA enforcement increasing under Trump administration"
+    }
+  ],
+  "pestle_factors": [
+    {
+      "dimension": "Political",
+      "factors": [
+        "US political polarization",
+        "Eastern Europe authoritarian turn",
+        "Russia full ban",
+        "China restrictions",
+        "Latin America left-wing governments"
+      ],
+      "impact_level": "high"
+    },
+    {
+      "dimension": "Economic",
+      "factors": [
+        "Global inflation",
+        "USD strength reducing purchasing power",
+        "Investment return volatility"
+      ],
+      "impact_level": "medium"
+    },
+    {
+      "dimension": "Social",
+      "factors": [
+        "Global democratic backsliding",
+        "Conspiracy theory spread",
+        "Civic space contraction"
+      ],
+      "impact_level": "medium_high"
+    },
+    {
+      "dimension": "Technological",
+      "factors": [
+        "Digital rights",
+        "AI governance",
+        "Surveillance technology",
+        "Cross-border data flow"
+      ],
+      "impact_level": "medium"
+    },
+    {
+      "dimension": "Legal",
+      "factors": [
+        "Overseas NGO laws",
+        "FARA",
+        "Anti-money laundering",
+        "Sanctions compliance"
+      ],
+      "impact_level": "high"
+    },
+    {
+      "dimension": "Environmental",
+      "factors": [
+        "Climate justice",
+        "ESG investment",
+        "Environmental defender programs"
+      ],
+      "impact_level": "medium_low"
+    }
+  ],
+  "seven_s_scores": {
+    "strategy": 8,
+    "structure": 6,
+    "systems": 7,
+    "shared_values": 8,
+    "style": 7,
+    "staff": 5,
+    "skills": 7
+  },
+  "news_timeline": [
+    {
+      "date": "2023-06",
+      "title": "Alex Soros becomes board chair; Binaifer Nowrojee appointed president",
+      "impact": "Leadership transition, restructuring initiated"
+    },
+    {
+      "date": "2023-07",
+      "title": "Announced major restructuring, 40% workforce reduction",
+      "impact": "Largest-ever personnel cut"
+    },
+    {
+      "date": "2024",
+      "title": "Restructuring implementation year, expenditure drops to $1.19B",
+      "impact": "Strategic contraction"
+    },
+    {
+      "date": "2026-02",
+      "title": "Brian Kagoro detained in Kenya",
+      "impact": "East Africa operational environment deteriorates"
+    },
+    {
+      "date": "2026-05",
+      "title": "Launched $300M US initiative and $30M anti-hate initiative",
+      "impact": "Strategic shift to US domestic focus"
+    }
+  ],
+  "initiatives": [
+    {
+      "date": "2026-05",
+      "name": "US Economic Security & Civil Liberties Initiative",
+      "scale": "$300M",
+      "context": "Trump second term, civil liberties under threat"
+    },
+    {
+      "date": "2026-05",
+      "name": "Counter Antisemitism & Anti-Muslim Hate Initiative",
+      "scale": "$30M",
+      "context": "Global surge in hate crimes"
+    }
+  ],
+  "compliance_mechanisms": [
+    "Grantee due diligence",
+    "AML policy",
+    "Anti-corruption policy",
+    "GDPR compliance",
+    "Public grantee database"
+  ]
+}
